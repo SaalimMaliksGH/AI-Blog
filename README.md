@@ -241,7 +241,7 @@ git push origin feature/NewFeature
 ---
 
 <div align="center">
-Made with 💻 and ☕ by **Aditya**
+Made with 💻 and ☕ by **Saalim**
 
 ⭐️ Don’t forget to star the repo if you like it!
 </div>
